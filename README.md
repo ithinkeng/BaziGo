@@ -2,7 +2,7 @@
 GO语言的八字库
 
 作者只想保留版权，无任何使用或者发布限制。您只需要在您的发行版本中注明代码出处
-https://github.com/warrially/BaziGo
+github.com/warrially/BaziGo
 
 
 如果有商业谈合作可以直接电话联系
@@ -54,7 +54,7 @@ import (
 	"flag"
 	"fmt"
 
-	bazi "github.com/warrially/BaziGo"
+	bazi "github.com/ithinkeng/BaziGo"
 )
 
 func main() {
@@ -89,7 +89,7 @@ import (
 	"fmt"
 	"net/http"
 
-	bazi "github.com/warrially/BaziGo"
+	bazi "github.com/ithinkeng/BaziGo"
 )
 
 type Myhandler struct{}

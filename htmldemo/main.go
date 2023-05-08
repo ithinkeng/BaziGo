@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	bazi "github.com/warrially/BaziGo"
+	bazi "github.com/ithinkeng/BaziGo"
 )
 
 type Myhandler struct{}
